@@ -106,7 +106,7 @@ body {
 }
 
 .main-btn {
-  font-style: inherit;
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -182,7 +182,6 @@ body {
 }
 
 .address-map {
-  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -190,7 +189,6 @@ body {
 }
 
 .footer-contact {
-  font-style: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -198,7 +196,7 @@ body {
 }
 
 .footer-main-logo {
-  font-family: Raleway;
+  font-family: raleway;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -223,7 +221,7 @@ body {
 }
 
 .potrfolio-list-btn {
-  font-style: inherit;
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
