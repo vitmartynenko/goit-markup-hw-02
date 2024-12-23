@@ -25,36 +25,18 @@ button {cursor: pointer;}
 .button-text {background-color: #4d5ae5;}
 .button-text:hover, .button-text:focus {background-color: #404bbf;}
 
-
+.logo {font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
 .top-line .logo-w,
-.section-footer .logo-w {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+.section-footer .logo-w {color: #4d5ae5;
 }
-
-.top-line .logo-s {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2e2f42;
+.top-line .logo-s {color: #2e2f42;
 }
-
-.section-footer .logo-s {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #f4f4fd;
+.section-footer .logo-s {color: #f4f4fd;
 }
 
 .button-text {font-family: "Roboto", sans-serif;
