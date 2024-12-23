@@ -107,7 +107,8 @@ button {
   color: #2e2f42;
 }
 
-.section-features-text {
+.section-features-text,
+.section-portfolio-text {
   letter-spacing: 0.02em;
 }
 
@@ -116,16 +117,25 @@ button {
   text-align: center;
 }
 
+.section-team-content {
+  background-color: #ffffff;
+}
+
 .section-team {
   background: #f4f4fd;
+}
+
+.section-team .section-team-text {
+  letter-spacing: 0.02em;
 }
 
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
